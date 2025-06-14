@@ -112,7 +112,7 @@ Thanks to all the people who have contributed to this project!
 
 <h2>Issues</h2>
 
-If you encounter any issues, please open an issue in the [Issues](https://github.com/CodeDrago03/Application-Template/issues) section.
+If you encounter any issues, please open an issue in the [Issues](https://github.com/CodeDragon03/Application-Template/issues) section.
 
 <h3>Issue Guidelines</h3>
 
