@@ -10,10 +10,10 @@
 </blockquote>
 
 <div align="center">
-<img src="https://img.shields.io/github/contributors/CodeDragon03/Web-Application-Template?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
-<img src="https://img.shields.io/github/forks/CodeDragon03/Web-Application-Template?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
-<img src="https://img.shields.io/github/stars/CodeDragon03/Web-Application-Template?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
-<img src="https://img.shields.io/github/issues/CodeDragon03/Web-Application-Template?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
+<img src="https://img.shields.io/github/contributors/CodeDragon03/Application-Template?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
+<img src="https://img.shields.io/github/forks/CodeDragon03/Application-Template?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
+<img src="https://img.shields.io/github/stars/CodeDragon03/Application-Template?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
+<img src="https://img.shields.io/github/issues/CodeDragon03/Application-Template?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
 </div>
 
 <h2>Table Of Contents</h2>
@@ -29,12 +29,12 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/CodeDragon03/Web-Application-Template.git
+   git clone https://github.com/CodeDragon03/Application-Template.git
    ```
 2. **Install dependencies:**
 
    ```bash
-   cd Web-Application-Template
+   cd Application-Template
 
    pnpm install
    ```
@@ -59,9 +59,9 @@ We welcome contributions! To get started, please follow these steps:
 2. **Clone your fork**
 
    ```bash
-   git clone https://github.com/CodeDragon03/Web-Application-Template.git
+   git clone https://github.com/CodeDragon03/Application-Template.git
 
-   cd Web-Application-Template
+   cd Application-Template
    ```
 
 3. **Create a new branch**  
@@ -105,14 +105,14 @@ Thank you for helping improve this project!
 Thanks to all the people who have contributed to this project!
 
 <div align="start">
-   <a href="https://github.com/CodeDragon03/Web-Application-Template/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=CodeDragon03/Web-Application-Template" alt="Contributors" />
+   <a href="https://github.com/CodeDragon03/Application-Template/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=CodeDragon03/Application-Template" alt="Contributors" />
    </a>
 </div>
 
 <h2>Issues</h2>
 
-If you encounter any issues, please open an issue in the [Issues](https://github.com/CodeDrago03/Web-Application-Template/issues) section.
+If you encounter any issues, please open an issue in the [Issues](https://github.com/CodeDrago03/Application-Template/issues) section.
 
 <h3>Issue Guidelines</h3>
 
