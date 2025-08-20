@@ -20,11 +20,11 @@
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Issues](#issues)
-- [Author](#author)
-- [License](#licence)
 - [Appendix](#appendix)
+- [Author](#author)
+- [Contributing](#contributing)
+- [License](#licence)
 
 <h2>Getting Started</h2>
 
