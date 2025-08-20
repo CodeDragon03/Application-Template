@@ -23,7 +23,8 @@
 - [Contributing](#contributing)
 - [Issues](#issues)
 - [Author](#author)
-- [License](#license)
+- [License](#licence)
+- [Appendix](#appendix)
 
 <h2>Getting Started</h2>
 
@@ -125,6 +126,20 @@ If you encounter any issues, please open an issue in the [Issues](https://github
 <h2>Author</h2>
 
       Jay Yadav @CodeDragon03
+
+<h2>Appendix</h2>
+
+<h3>What is a Monorepo?</h3>
+
+<blockquote style="font-size:18px;">
+A monorepo, short for "monolithic repository," is a single version-controlled repository that holds the code for many distinct projects. Instead of having separate repositories for each project, a monorepo centralizes all of the codebase in one location.
+</blockquote>
+
+<h3>Why use Monorepo (Turbo Repo)?</h3>
+
+<blockquote>
+In a monorepo, a developer can streamline a codebase, unifying front-end, back-end, and UI libraries into a single repository. This can accelerate build times and cut down on development overhead. The centralized nature of a monorepo can also improve developer velocity. For instance, one project used a monorepo to accelerate build times by 30% , and another cut development overhead by 25%.
+</blockquote>
 
 <h2>License</h2>
 
