@@ -18,7 +18,7 @@
       "cache": false,
       "dependsOn": ["^test"],
       "outputs": ["coverage/**"],
-      "inputs": ["src/**/*", "test/**/*", "!**/*.tsbuildinfo"]
+      "inputs": ["src/**/*", "test/**/*"]
     },
     "clean": {
       "cache": false
