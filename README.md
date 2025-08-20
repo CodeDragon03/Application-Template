@@ -1,12 +1,12 @@
 <div align="center">
-   <img src="./Poster.png" alt="Poster" />
+   <img src="./Poster.jpeg" alt="Poster" />
 </div>
 
-<h1 align="center">Application Name</h1>
+<h1 align="center">React + Typescript Monorepo</h1>
 
 
 <blockquote style="font-size:18px;">
-[Application Name] is a [type of solution] that [core functionality] for [target users] using [key technologies/methods].
+<strong>React Monorepo</strong> Template that <strong>streamlines the development of scalable and maintainable applications</strong> for <strong>development teams</strong> using <strong>Turborepo, a build system for JavaScript and TypeScript monorepos, and a modular folder structure</strong>.
 </blockquote>
 
 <div align="center">
