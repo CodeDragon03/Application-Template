@@ -4,10 +4,12 @@
   "version": "1.0.0",
   "private": "true",
   "exports": {
-    "./base": "./base.js",
-    "./react-lib": "./react-lib.js"
+    "base": "./base.js",
+    "react-lib": "./react-lib.js",
+    "next": "./next.js"
   },
   "devDependencies": {
+    "@next/eslint-plugin-next": "^15.5.0",
     "@typescript-eslint/eslint-plugin": "^8.40.0",
     "@typescript-eslint/parser": "^8.40.0",
     "eslint-config-airbnb": "^19.0.4",
@@ -15,8 +17,10 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-only-warn": "^1.1.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-turbo": "^2.5.6",
     "globals": "^16.3.0"
   }
 }

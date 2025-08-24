@@ -1,3 +1,6 @@
 {
-  "name": "@repo/api"
+  "name": "@repo/api",
+  "devDependencies": {
+    "@repo/eslint-config": "workspace:*"
+  }
 }
