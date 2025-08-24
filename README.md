@@ -1,48 +1,48 @@
 <div align="center">
-   <img src="./Poster.jpeg" alt="Poster" />
+<img src="./Poster.jpeg" alt="Poster" />
 </div>
 
 <h1 align="center">React + Typescript Monorepo</h1>
 
-<blockquote style="font-size:18px;">
+<blockquote align="center" style="font-size:18px;">
 <strong>React Monorepo</strong> Template that <strong>streamlines the development of scalable and maintainable applications</strong> for <strong>development teams</strong> using <strong>Turborepo, a build system for JavaScript and TypeScript monorepos, and a modular folder structure</strong>.
 </blockquote>
 
 <div align="center">
-<img src="https://img.shields.io/github/contributors/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
-<img src="https://img.shields.io/github/forks/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
-<img src="https://img.shields.io/github/stars/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
-<img src="https://img.shields.io/github/issues/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
+<a href="https://github.com/CodeDragon03/Monorepo/graphs/contributors"><img src="https://img.shields.io/github/contributors/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" /></a>
+<a href="https://github.com/CodeDragon03/Monorepo/forks"><img src="https://img.shields.io/github/forks/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub forks" /></a>
+<a href="https://github.com/CodeDragon03/Monorepo/stargazers"><img src="https://img.shields.io/github/stars/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" /></a>
+<a href="https://github.com/CodeDragon03/Monorepo/issues"><img src="https://img.shields.io/github/issues/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" /></a>
 </div>
 
-<h2>Table Of Contents</h2>
+## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Issues](#issues)
-- [Contributing](#contributing)
-- [Author](#author)
-- [Appendix](#appendix)
-- [Reference](#references)
-- [License](#licence)
+- [Getting Started](https://www.google.com/search?q=%23getting-started)
+- [Usage](https://www.google.com/search?q=%23usage)
+- [Contributing](https://www.google.com/search?q=%23contributing)
+- [Issues](https://www.google.com/search?q=%23issues)
+- [Author](https://www.google.com/search?q=%23author)
+- [Appendix](https://www.google.com/search?q=%23appendix)
+- [References](https://www.google.com/search?q=%23references)
+- [License](https://www.google.com/search?q=%23license)
 
-<h2>Getting Started</h2>
+## Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/CodeDragon03/Monorepo.git
-   ```
-2. **Install dependencies:**
+1.  **Clone the repository:**
 
-   ```bash
-   cd Monorepo
+    ```bash
+    git clone https://github.com/CodeDragon03/Monorepo.git
+    ```
 
-   pnpm install
-   ```
+2.  **Install dependencies:**
 
-3. For detailed setup instructions, see [Getting Started](#getting-started).
+    ```bash
+    cd Monorepo
 
-<h2>Usage</h2>
+    pnpm install
+    ```
+
+## Usage
 
 Use the following command to run the application:
 
@@ -50,72 +50,66 @@ Use the following command to run the application:
 turbo run dev
 ```
 
-<h2>Contributing</h2>
+## Contributing
 
-We welcome contributions! To get started, please follow these steps:
+We welcome contributions\! To get started, please follow these steps:
 
-1. **Fork the repository**  
-   Click the "Fork" button at the top right of this page to create your own copy of the repository.
+1.  **Fork the repository** Click the "Fork" button at the top right of this page to create your own copy of the repository.
 
-2. **Clone your fork**
+2.  **Clone your fork**
 
-   ```bash
-   git clone https://github.com/CodeDragon03/Monorepo.git
+    ```bash
+    git clone https://github.com/CodeDragon03/Monorepo.git
 
-   cd Monorepo
-   ```
+    cd Monorepo
+    ```
 
-3. **Create a new branch**  
-   Use a descriptive branch name for your feature or bugfix.
+3.  **Create a new branch** Use a descriptive branch name for your feature or bugfix.
 
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
 
-4. **Make your changes**  
-   Implement your feature or fix the bug. Add or update tests and documentation as needed.
+4.  **Make your changes** Implement your feature or fix the bug. Add or update tests and documentation as needed.
 
-5. **Commit your changes**
+5.  **Commit your changes**
 
-   ```bash
-   git add --all
+    ```bash
+    git add --all
 
-   git commit -m "Describe your changes"
-   ```
+    git commit -m "Describe your changes"
+    ```
 
-6. **Push to your fork**
+6.  **Push to your fork**
 
-   ```bash
-   git push origin feature/your-feature-name
-   ```
+    ```bash
+    git push origin feature/your-feature-name
+    ```
 
-7. **Open a Pull Request**  
-   Go to the original repository and click "New Pull Request". Select your branch and describe your changes.
+7.  **Open a Pull Request** Go to the original repository and click "New Pull Request". Select your branch and describe your changes.
 
-**Contribution Tips:**
+### Contribution Tips:
 
 - Follow the project's coding style and guidelines.
 - Write clear, concise commit messages.
 - Ensure all tests pass before submitting.
 - Be responsive to feedback on your pull request.
 
-Thank you for helping improve this project!
-
-<h3>Contributors</h3>
+### Contributors
 
 Thanks to all the people who have contributed to this project!
 
 <div align="start">
-   <a href="https://github.com/CodeDragon03/Monorepo/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=CodeDragon03/Monorepo" alt="Contributors" />
-   </a>
+    <a href="https://github.com/CodeDragon03/Monorepo/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=CodeDragon03/Monorepo" alt="Contributors" />
+    </a>
 </div>
 
-<h2>Issues</h2>
+## Issues
 
 If you encounter any issues, please open an issue in the [Issues](https://github.com/CodeDragon03/Monorepo/issues) section.
 
-<h3>Issue Guidelines</h3>
+### Issue Guidelines
 
 - Search for existing issues before creating a new one.
 - Provide a clear and descriptive title.
@@ -127,24 +121,24 @@ If you encounter any issues, please open an issue in the [Issues](https://github
 
       Jay Yadav @CodeDragon03
 
-<h2>Appendix</h2>
+## Appendix
 
-<h3>What is a Monorepo?</h3>
+### What is a Monorepo?
 
 <blockquote style="font-size:18px;">
 A monorepo, short for "monolithic repository," is a single version-controlled repository that holds the code for many distinct projects. Instead of having separate repositories for each project, a monorepo centralizes all of the codebase in one location.
 </blockquote>
 
-<h3>Why use Monorepo (Turbo Repo)?</h3>
+### Why use Monorepo (Turbo Repo)?
 
-<blockquote>
+<blockquote style="font-size:18px;">
 In a monorepo, a developer can streamline a codebase, unifying front-end, back-end, and UI libraries into a single repository. This can accelerate build times and cut down on development overhead. The centralized nature of a monorepo can also improve developer velocity. For instance, one project used a monorepo to accelerate build times by 30% , and another cut development overhead by 25%.
 </blockquote>
 
-<h2>References</h2>
+## References
 
 - [Typescript Configuration](https://www.typescriptlang.org/tsconfig/)
 
-<h2>License</h2>
+## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
