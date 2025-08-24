@@ -1,0 +1,21 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "A scalable and maintainable monorepo for building full-stack applications with React and TypeScript. This project is configured to ensure code quality and consistency across all packages using a centralized linting and formatting setup. It's an ideal foundation for collaborative teams and complex, multi-package applications, emphasizing best practices in modern JavaScript development.",
+  "private": "true",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  },
+  "author": "Jay Yadav jay7666.professional@gmail.com",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.15.0"
+  },
+  "packageManager": "pnpm@10.10.0"
+}
