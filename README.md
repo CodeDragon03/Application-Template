@@ -4,7 +4,6 @@
 
 <h1 align="center">React + Typescript Monorepo</h1>
 
-
 <blockquote style="font-size:18px;">
 <strong>React Monorepo</strong> Template that <strong>streamlines the development of scalable and maintainable applications</strong> for <strong>development teams</strong> using <strong>Turborepo, a build system for JavaScript and TypeScript monorepos, and a modular folder structure</strong>.
 </blockquote>
@@ -21,9 +20,10 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Issues](#issues)
-- [Appendix](#appendix)
-- [Author](#author)
 - [Contributing](#contributing)
+- [Author](#author)
+- [Appendix](#appendix)
+- [Reference](#references)
 - [License](#licence)
 
 <h2>Getting Started</h2>
@@ -140,6 +140,10 @@ A monorepo, short for "monolithic repository," is a single version-controlled re
 <blockquote>
 In a monorepo, a developer can streamline a codebase, unifying front-end, back-end, and UI libraries into a single repository. This can accelerate build times and cut down on development overhead. The centralized nature of a monorepo can also improve developer velocity. For instance, one project used a monorepo to accelerate build times by 30% , and another cut development overhead by 25%.
 </blockquote>
+
+<h2>References</h2>
+
+- [Typescript Configuration](https://www.typescriptlang.org/tsconfig/)
 
 <h2>License</h2>
 
