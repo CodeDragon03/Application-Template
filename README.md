@@ -2,10 +2,10 @@
 <img src="./Poster.jpeg" alt="Poster" />
 </div>
 
-<h1 align="center">React + Typescript Monorepo</h1>
+<h1 align="center">Monorepo Setup</h1>
 
 <blockquote align="center" style="font-size:18px;">
-<strong>React Monorepo</strong> Template that <strong>streamlines the development of scalable and maintainable applications</strong> for <strong>development teams</strong> using <strong>Turborepo, a build system for JavaScript and TypeScript monorepos, and a modular folder structure</strong>.
+<strong>Advance Monorepo</strong> Template that <strong>streamlines the development of scalable and maintainable applications</strong> for <strong>development teams</strong> using <strong>Turborepo, a build system for JavaScript and TypeScript monorepos, and a modular folder structure</strong>.
 </blockquote>
 
 <div align="center">
