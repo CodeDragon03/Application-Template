@@ -9,23 +9,11 @@
 </blockquote>
 
 <div align="center">
-<a href="https://github.com/CodeDragon03/Monorepo/graphs/contributors">
 <img src="https://img.shields.io/github/contributors/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
-</a>
-<a href="https://github.com/CodeDragon03/Monorepo/forks">
 <img src="https://img.shields.io/github/forks/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
-</a>
-<a href="https://img.shields.io/github/issues-pr/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green">
 <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green">
-
-</a>
-<a href="https://github.com/CodeDragon03/Monorepo/stargazers">
 <img src="https://img.shields.io/github/stars/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
-</a>
-<a href="https://github.com/CodeDragon03/Monorepo/issues">
 <img src="https://img.shields.io/github/issues/CodeDragon03/Monorepo?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
-</a>
-
 </div>
 
 ## Table of Contents
