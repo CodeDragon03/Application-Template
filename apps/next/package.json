@@ -1,3 +1,6 @@
 {
-  "name": "@repo/next"
+  "name": "@repo/next",
+  "devDependencies": {
+    "@repo/eslint-config": "workspace:*"
+  }
 }
